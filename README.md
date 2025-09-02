@@ -1,4 +1,4 @@
-**Predyktor Dominujących Kolorów**
+**Predyktor Dominujących Kolorów**  
 Projekt wykorzystujący sieć konwolucyjną PyTorch do przewidywania 5 dominujących kolorów na podstawie obrazu.  
 Z czego składa się projekt?  
 * train.py: Skrypt odpowiedzialny za trenowanie sieci neuronowej.  
